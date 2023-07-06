@@ -1,5 +1,5 @@
 # Лаптев Владислав
-# Тестовое задание Python (hard)
+# Тестовое задание Python
 ### Проект реализован с помощью Django, DRF. БД – Postgres. Средство кэширования – Redis.
 ### Авторизация реализована через JWT-токены, для любого чувствительного запроса необходимо отправлять access токен.
 ### Коллекция Postman для тестирования запросов https://elements.getpostman.com/redirect?entityId=23624433-2f8ea2bc-710c-428d-9344-b035f498bc6f&entityType=collection
